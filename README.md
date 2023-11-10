@@ -48,6 +48,6 @@ If you find it useful for your research, please consider citing the following so
 - This project was designed for academic research, not for clinical or commercial use, as it's a protected patent. 
 - Our demo was trained on [HCP-YA](https://www.humanconnectome.org/study/hcp-young-adult/) dataset and we used two shells ( 30 diffusion
 directions per shell at b-values of 1 and 2 $ms/ \mu m^2$ )
-- If you have any questions, please feel free to contact [me](zhengtianshu996@gamil.com).
+- If you have any questions, please feel free to contact [me](mailto:zhengtianshu996@gamil.com).
 
 
