@@ -3,10 +3,10 @@
 ## Introduction
 This repository provides a demonstration of a microstructure estimation network, METSC. In this repository we offer an inference framework on NODDI model. The project was originally developed for our previous work on METSC. It is suitable for direct use or finetuning on your dataset. 
 
-  <div style="text-align:center">
-    <img src="./example/overall.jpg" alt="example" />
-    <p style="text-align:center">Fig.1 The overall network structure </p>
-</div>
+<p align="center">
+   <img src="./example/overall.jpg" align="center" width="700">
+</p>
+<p align="center"> Fig.1 The overall network structure. <p align="center">
 
 
 ## Requirements
