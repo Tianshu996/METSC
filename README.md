@@ -17,7 +17,7 @@ Before you can use this package for image segmentation. You should install the f
 
 ## How to use
 
-1. compile the requirement library.
+1. Compile the requirement library.
 
 2. Download our pretrained models from the link: <https://drive.google.com/drive/folders/1K5knd2j1ymO70brD1d-62vU0ZSFDTj_3>
 
