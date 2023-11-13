@@ -1,7 +1,7 @@
 # METSC: A microstructure estimation Transformer inspired by sparse representation for diffusion MRI [[MedIA]](https://www.sciencedirect.com/science/article/pii/S136184152300049X)
 
 ## Introduction
-This repository provides a demonstration of a microstructure estimation network, METSC. In this repository we offer an inference framework on NODDI model. The project was originally developed for our previous work on METSC. It is suitable for direct use or finetuning on your dataset. 
+This repository provides a demonstration of a microstructure estimation network, METSC. In this repository we offer an inference framework on NODDI model. The project was originally developed for our previous work on METSC and can be used directly or fine-tuned with your dataset. 
 
 <p align="center">
    <img src="./example/overall.jpg" align="center" width="700">
